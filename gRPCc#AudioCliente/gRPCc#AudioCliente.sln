@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gRPCc#AudioCliente", "gRPCc#AudioCliente.csproj", "{2C6ACCB3-ED40-4CCF-AAD4-9989666E3BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6ACCB3-ED40-4CCF-AAD4-9989666E3BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6ACCB3-ED40-4CCF-AAD4-9989666E3BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6ACCB3-ED40-4CCF-AAD4-9989666E3BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6ACCB3-ED40-4CCF-AAD4-9989666E3BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78DA3CE8-51CB-4D4E-917B-5C2210FB96E4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yb/z1wiT3DsgaOgjanBJ6Mk7Myn65qd9+/HPSUUpLWdxTcIcirZpqEq2N6/ai/K5c2QV3J8uOtRW+nAscFtH8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dplat\\OneDrive\\Escritorio\\gRPCc--main\\gRPCc#AudioCliente\\gRPCc#AudioCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dplat\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
+    "C:\\Users\\dplat\\.nuget\\packages\\grpc.core.api\\2.62.0\\grpc.core.api.2.62.0.nupkg.sha512",
+    "C:\\Users\\dplat\\.nuget\\packages\\grpc.net.client\\2.62.0\\grpc.net.client.2.62.0.nupkg.sha512",
+    "C:\\Users\\dplat\\.nuget\\packages\\grpc.net.common\\2.62.0\\grpc.net.common.2.62.0.nupkg.sha512",
+    "C:\\Users\\dplat\\.nuget\\packages\\grpc.tools\\2.62.0\\grpc.tools.2.62.0.nupkg.sha512",
+    "C:\\Users\\dplat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dplat\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
